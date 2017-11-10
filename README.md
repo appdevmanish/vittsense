@@ -1,2 +1,2 @@
 # vittsense
-VittSense-The Ultimate Financial App
+VittSense-The Ultimate Financial and Store Management App
